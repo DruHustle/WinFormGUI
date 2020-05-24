@@ -1,0 +1,20 @@
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\bin\Debug\WinFormGUI.exe.config
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\bin\Debug\WinFormGUI.exe
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\bin\Debug\WinFormGUI.pdb
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.FormGUI.resources
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.Properties.Resources.resources
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.csproj.GenerateResource.cache
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.exe
+C:\Users\Andrew\Desktop\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.pdb
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\bin\Debug\WinFormGUI.exe.config
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\bin\Debug\WinFormGUI.exe
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\bin\Debug\WinFormGUI.pdb
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.FormGUI.resources
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.Properties.Resources.resources
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.csproj.GenerateResource.cache
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.exe
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.pdb
+C:\Users\Andrew Gotora\source\repos\WinFormGUI\WinFormGUI\obj\Debug\WinFormGUI.csprojAssemblyReference.cache
